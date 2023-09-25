@@ -1,0 +1,1 @@
+This beginner project is about my favorite recipes using basic HTML.
