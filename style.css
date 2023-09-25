@@ -1,0 +1,66 @@
+body {
+  background-color: darkcyan;
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+
+.main-heading {
+  background-color: azure;
+  width: 25%;
+}
+
+.spaghetti-body {
+  background-color: rgb(195, 195, 177);
+}
+
+.spaghetti-heading{
+  background-color: red;
+  font-size: 36px;
+  color: white;
+}
+
+.s-lists {
+  background-color: green;
+  color: white;
+  font-size: 24px;
+}
+
+.taco-body {
+  background-color: rgb(234, 143, 143);
+}
+
+.taco-heading {
+  font-size: 36px;
+}
+.red {
+  background-color: red;
+  color: white;
+}
+
+.t-lists {
+  background-color: white;
+  font-size: 24px;
+  color: rgb(159, 96, 13);;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.burger-body {
+  background-color: rgb(135, 135, 249);
+}
+
+.burger-heading {
+  background-color: crimson;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  font-size: 24px;
+  color: white;
+}
