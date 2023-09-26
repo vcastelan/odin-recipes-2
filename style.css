@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
   background-color: darkcyan;
 }
@@ -6,9 +9,36 @@ a {
   color: rgb(255, 255, 255);
 }
 
+.main-container {
+  background-color: rgb(112, 205, 50);
+  padding: 20px;
+  width: 698px;
+  border: 1px solid black;
+}
+
+.burger-body .main-container {
+  background-color: rgb(120, 240, 240);
+}
+
+.spaghetti-body .main-container {
+  background-color: khaki;
+}
+
+.taco-body .main-container {
+  background-color: darkgoldenrod;
+}
+
+.recipe-container {
+  background-color: rgb(36, 137, 104);
+  padding: 5px 0;
+}
+
+.recipe-container li {
+  padding: 5px;
+}
+
 .main-heading {
   background-color: azure;
-  width: 25%;
 }
 
 .spaghetti-body {
